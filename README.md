@@ -43,3 +43,5 @@ After successfully cloning the project, follow these steps:
 - php artisan migrate --seed
 - php artisan serve
 - please open http://localhost:8000
+
+- <!-- nnndnndndndndndndndndnd --> 
