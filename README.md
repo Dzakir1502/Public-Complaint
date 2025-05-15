@@ -45,5 +45,5 @@ After successfully cloning the project, follow these steps:
 - please open http://localhost:8000
 
 - <!-- nnndnndndndndndndndndnd -->
-- <!-- bqcbakbkcabcabscakbsbjkcbkja -->
+- <!-- bqcbakbkcabcabscakbsbjkca -->
 - <!-- tutor basuki -->
