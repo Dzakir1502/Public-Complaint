@@ -44,6 +44,6 @@ After successfully cloning the project, follow these steps:
 - php artisan serve
 - please open http://localhost:8000
 
-- <!-- nnndnndndndndndndd -->
+- <!-- nnndnndndshthytdndd -->
 - <!-- bqcbakbkcabcabscakbsbjkca -->
 - <!-- tutor basuki ------->
